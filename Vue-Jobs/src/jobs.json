@@ -139,6 +139,20 @@
         "contactEmail": "xehivax@mailinator.com",
         "contactPhone": "+1 (506) 916-1046"
       }
+    },
+    {
+      "id": "51a3",
+      "title": "Abraham Solomon",
+      "type": "Internship",
+      "location": "Neque iure et ducimu",
+      "description": "Voluptates iste aut ",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Williams Jimenez Plc",
+        "description": "Voluptatem Doloremq",
+        "contactEmail": "notuzu@mailinator.com",
+        "contactPhone": "+1 (731) 962-4762"
+      }
     }
   ]
 }
